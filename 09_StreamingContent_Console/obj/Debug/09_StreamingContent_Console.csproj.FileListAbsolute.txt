@@ -1,0 +1,2 @@
+C:\Users\hessj\Desktop\1150\CSharpGold\CSharpFundamentals\09_StreamingContent_Console\obj\Debug\09_StreamingContent_Console.csprojAssemblyReference.cache
+C:\Users\hessj\Desktop\1150\CSharpGold\CSharpFundamentals\09_StreamingContent_Console\obj\Debug\09_StreamingContent_Console.csproj.CoreCompileInputs.cache
